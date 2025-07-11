@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 8c8d9bdaf878eb343ae94af410e3dd01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7254883343070294786
+    second: ticke_anim_0
+  - first:
+      213: 5529984773195030495
+    second: ticke_anim_1
+  - first:
+      213: 1918695135255033737
+    second: ticke_anim_2
+  - first:
+      213: 5410693946807798348
+    second: ticke_anim_3
+  - first:
+      213: 5954894452811522887
+    second: ticke_anim_4
+  - first:
+      213: 2679446488384741113
+    second: ticke_anim_5
+  - first:
+      213: -5051926730154594820
+    second: ticke_anim_6
+  - first:
+      213: -8956176947356853036
+    second: ticke_anim_7
+  - first:
+      213: -7803631222789149649
+    second: ticke_anim_8
+  - first:
+      213: 2579739548167974301
+    second: ticke_anim_9
+  - first:
+      213: -8689183541178982813
+    second: ticke_anim_10
+  - first:
+      213: 912886688168815912
+    second: ticke_anim_11
+  - first:
+      213: 6968734431300280932
+    second: ticke_anim_12
+  - first:
+      213: -4768603143734518684
+    second: ticke_anim_13
+  - first:
+      213: 2915061950143769877
+    second: ticke_anim_14
+  - first:
+      213: -4525108745330494230
+    second: ticke_anim_15
+  - first:
+      213: 4383458381970637301
+    second: ticke_anim_16
+  - first:
+      213: 7376616741151062219
+    second: ticke_anim_17
+  - first:
+      213: 7120474594540724074
+    second: ticke_anim_18
+  - first:
+      213: 1761574112630860494
+    second: ticke_anim_19
+  - first:
+      213: -1596304854081486179
+    second: ticke_anim_20
+  - first:
+      213: 9161469172263867168
+    second: ticke_anim_21
+  - first:
+      213: 7872373569189611503
+    second: ticke_anim_22
+  - first:
+      213: -7753528255845515578
+    second: ticke_anim_23
+  - first:
+      213: 6087195455793396035
+    second: ticke_anim_24
+  - first:
+      213: 8622053077699943698
+    second: ticke_anim_25
+  - first:
+      213: 1632834381610039163
+    second: ticke_anim_26
+  - first:
+      213: -7533606697235244118
+    second: ticke_anim_27
+  - first:
+      213: -8559872679085492695
+    second: ticke_anim_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ticke_anim_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 797
+        width: 176
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2037a9666f58ea460800000000000000
+      internalID: 7254883343070294786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 796
+        width: 176
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfdb932ad37ebc40800000000000000
+      internalID: 5529984773195030495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 798
+        width: 178
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98775215f0390aa10800000000000000
+      internalID: 1918695135255033737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_3
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 800
+        width: 174
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ac5df3a75a61b40800000000000000
+      internalID: 5410693946807798348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 651
+        width: 169
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74366c654f804a250800000000000000
+      internalID: 5954894452811522887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 668
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe17d6826e4f2520800000000000000
+      internalID: 2679446488384741113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 657
+        width: 174
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfda5d9b763f3e9b0800000000000000
+      internalID: -5051926730154594820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 658
+        width: 181
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc904ba48445b380800000000000000
+      internalID: -8956176947356853036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_8
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 658
+        width: 179
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c618f8fbee3b390800000000000000
+      internalID: -7803631222789149649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 657
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d249573731dc320800000000000000
+      internalID: 2579739548167974301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 536
+        width: 171
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e1bd74b91d96780800000000000000
+      internalID: -8689183541178982813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 539
+        width: 164
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d2c703b993bac00800000000000000
+      internalID: 912886688168815912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 532
+        width: 171
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462efa71b0be5b060800000000000000
+      internalID: 6968734431300280932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 521
+        width: 186
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c94e6b4b482ddb0800000000000000
+      internalID: -4768603143734518684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 341
+        width: 176
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da3942661647820800000000000000
+      internalID: 2915061950143769877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 352
+        width: 167
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ff8832959331c0800000000000000
+      internalID: -4525108745330494230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 353
+        width: 170
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f181118c2c25dc30800000000000000
+      internalID: 4383458381970637301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_17
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 355
+        width: 177
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc83284d7d10f5660800000000000000
+      internalID: 7376616741151062219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 190
+        width: 194
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f1bc7fae101d260800000000000000
+      internalID: 7120474594540724074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 191
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecae2ec725e527810800000000000000
+      internalID: 1761574112630860494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_20
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 185
+        width: 190
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92cd3b5139c8d9e0800000000000000
+      internalID: -1596304854081486179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 183
+        width: 204
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023da713ca3142f70800000000000000
+      internalID: 9161469172263867168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_22
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 190
+        width: 179
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe788b23d0a404d60800000000000000
+      internalID: 7872373569189611503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 183
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cebf5a912fe56490800000000000000
+      internalID: -7753528255845515578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 182
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349ffe404001a7450800000000000000
+      internalID: 6087195455793396035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 24
+        width: 194
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d5ed2b79fa7a770800000000000000
+      internalID: 8622053077699943698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 18
+        width: 202
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7739ec083ef8a610800000000000000
+      internalID: 1632834381610039163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_27
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 5
+        width: 221
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab1ac5af90437790800000000000000
+      internalID: -7533606697235244118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ticke_anim_28
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 11
+        width: 206
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926b9888629353980800000000000000
+      internalID: -8559872679085492695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ticke_anim_0: 7254883343070294786
+      ticke_anim_1: 5529984773195030495
+      ticke_anim_10: -8689183541178982813
+      ticke_anim_11: 912886688168815912
+      ticke_anim_12: 6968734431300280932
+      ticke_anim_13: -4768603143734518684
+      ticke_anim_14: 2915061950143769877
+      ticke_anim_15: -4525108745330494230
+      ticke_anim_16: 4383458381970637301
+      ticke_anim_17: 7376616741151062219
+      ticke_anim_18: 7120474594540724074
+      ticke_anim_19: 1761574112630860494
+      ticke_anim_2: 1918695135255033737
+      ticke_anim_20: -1596304854081486179
+      ticke_anim_21: 9161469172263867168
+      ticke_anim_22: 7872373569189611503
+      ticke_anim_23: -7753528255845515578
+      ticke_anim_24: 6087195455793396035
+      ticke_anim_25: 8622053077699943698
+      ticke_anim_26: 1632834381610039163
+      ticke_anim_27: -7533606697235244118
+      ticke_anim_28: -8559872679085492695
+      ticke_anim_3: 5410693946807798348
+      ticke_anim_4: 5954894452811522887
+      ticke_anim_5: 2679446488384741113
+      ticke_anim_6: -5051926730154594820
+      ticke_anim_7: -8956176947356853036
+      ticke_anim_8: -7803631222789149649
+      ticke_anim_9: 2579739548167974301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

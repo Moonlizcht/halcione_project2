@@ -1,10 +1,15 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class ClickManager : MonoBehaviour
 {
-    public Transform player;
-    public void GoToItem(ItemData item )
+    public void ClickReaction()
+
     {
-        player.position = item.goToPoint.position; 
+        Debug.Log("test");
+        
     }
+
+
+
 }
